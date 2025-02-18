@@ -2,7 +2,7 @@
 title: demo
 emoji: :D
 colorFrom: purple
-colorTo: grey
+colorTo: yellow
 sdk: gradio
 sdk_version: 3.0.6
 app_file: app.py
