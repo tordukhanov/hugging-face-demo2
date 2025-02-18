@@ -1,4 +1,4 @@
-from transformes import pipeline 
+from transformers import pipeline 
 import gradio as gr
 
 model = pipeline("summerization")
