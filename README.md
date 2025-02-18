@@ -1,6 +1,6 @@
 ---
 title: demo
-emoji: :D
+emoji: ☕
 colorFrom: purple
 colorTo: yellow
 sdk: gradio
